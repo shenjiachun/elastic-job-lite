@@ -38,7 +38,7 @@ public final class EventTraceDataSource {
     public EventTraceDataSource(final EventTraceDataSourceConfiguration eventTraceDataSourceConfiguration) {
         this.eventTraceDataSourceConfiguration = eventTraceDataSourceConfiguration;
     }
-    
+
     /**
      * 初始化.
      */
